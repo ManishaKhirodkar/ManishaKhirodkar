@@ -1,0 +1,27 @@
+[
+    {
+        "mealtype": 1,
+        "name": "Breakfast",
+        "content": "start your day with exclusive breakfast option"
+    },
+    {
+        "mealtype": 2,
+        "name": "Lunch",
+        "content": "start your day with exclusive Lunch option"
+    },
+    {
+        "mealtype": 3,
+        "name": "Dinner",
+        "content": "start your day with exclusive Dinner option"
+    },
+    {
+        "mealtype": 4,
+        "name": "Snacks",
+        "content": "start your day with exclusive Snacks option"
+    },
+    {
+        "mealtype": 5,
+        "name": "Drinks",
+        "content": "start your day with exclusive Drinks option"
+    }
+]

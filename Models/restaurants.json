@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "KFC",
+        "Address": "Shalimar Bagh",
+        "city": "Delhi"
+    },
+    {
+        "id":2,
+        "name": "Dominos",
+        "Address": "Anand Nagar",
+        "city": "Delhi"
+    },
+    {
+        "id":3,
+        "name": "KFC",
+        "Address": "Civil Lines",
+        "city": "Pune"
+    },
+    {
+        "id":4,
+        "name": "Central Plaza",
+        "Address": "Datta Nagar",
+        "city": "Mumbai"
+    },
+    {
+        "id":5,
+        "name": "Burgar King",
+        "Address": "Budhvar Peth",
+        "city": "Pune"
+    }
+]

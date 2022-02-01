@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Janpat",
+        "city":"Delhi"
+
+    },
+    {
+        "id": 1,
+        "name": "MSP",
+        "city":"Mumbai"
+
+    },
+    {
+        "id": 1,
+        "name": "Anand Nagar",
+        "city":"Pune"
+
+    },
+    {
+        "id": 1,
+        "name": "MVC",
+        "city":"Mumbai"
+
+    }
+]    
